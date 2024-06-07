@@ -17,5 +17,4 @@ controller_templates:
   playbook: helloworld.yml
   credentials:
   - Demo Credential
-  survey: {}
-  extra_vars: "{{ empty_master_vars }}"
+  
