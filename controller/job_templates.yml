@@ -1,13 +1,13 @@
 ---
 controller_templates:
-- name: Survey Template with vars
+- name: Ansible Automates template 1
   job_type: run
   inventory: Demo Inventory2
   project: ammy
   playbook: helloworld.yml
   credentials:
   - Demo Credential
-- name: No Survey Template no vars
+- name: Ansible Automates template 2
   job_type: run
   inventory: Demo Inventory
   project: ammy
