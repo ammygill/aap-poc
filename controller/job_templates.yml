@@ -3,7 +3,6 @@ controller_templates:
 - name: Survey Template with vars
   job_type: run
   inventory: Demo Inventory2
-  execution_environment: my_exec_env
   project: ammy
   playbook: helloworld.yml
   credentials:
