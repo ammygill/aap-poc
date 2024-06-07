@@ -1,6 +1,6 @@
 ---
 controller_projects:
-- name: controller Config
+- name: ammy
   organization: Default
   scm_branch: master
   scm_clean: 'no'
