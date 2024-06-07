@@ -17,4 +17,3 @@ controller_templates:
   playbook: helloworld.yml
   credentials:
   - Demo Credential
-  
