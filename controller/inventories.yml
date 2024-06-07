@@ -1,0 +1,8 @@
+---
+controller_inventories:
+ - name: Demo Inventory2
+   organization: Default
+   description: Ansible automates testing
+ - name: Demo Inventory3
+   organization: Default
+...
