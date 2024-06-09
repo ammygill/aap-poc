@@ -1,0 +1,5 @@
+---
+controller_teams:
+  - name: Ansible Automates
+    description: added as example of teams in config-as-code
+    organization: Default
